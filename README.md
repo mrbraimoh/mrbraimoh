@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrbraimoh
-- 👀 I’m interested in Software testing 
+- 👀 I’m interested in Software testing, software development and cloud development 
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on projects moving the workd forward 
 - 📫 How to reach me on twitter @brymo_p
